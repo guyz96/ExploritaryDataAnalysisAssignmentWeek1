@@ -8,7 +8,7 @@ Translated with www.DeepL.com/Translator (free version)
 ```R
 library("data.table")
 
-setwd("~/Desktop/datasciencecoursera/4_Exploratory_Data_Analysis/project/data")
+setwd("~/Desktop/datasciencecoursera/")
 
 #Reads in data from file then subsets data for specified dates
 powerDT <- data.table::fread(input = "household_power_consumption.txt"
@@ -36,7 +36,7 @@ dev.off()
 ```R
 library("data.table")
 
-setwd("~/Desktop/datasciencecoursera/4_Exploratory_Data_Analysis/project/data")
+setwd("~/Desktop/datasciencecoursera/")
 
 #Reads in data from file then subsets data for specified dates
 powerDT <- data.table::fread(input = "household_power_consumption.txt"
@@ -65,7 +65,7 @@ dev.off()
 ```R
 library("data.table")
 
-setwd("~/Desktop/datasciencecoursera/4_Exploratory_Data_Analysis/project/data")
+setwd("~/Desktop/datasciencecoursera/")
 
 #Reads in data from file then subsets data for specified dates
 powerDT <- data.table::fread(input = "household_power_consumption.txt"
@@ -98,7 +98,7 @@ dev.off()
 ```R
 library("data.table")
 
-setwd("~/Desktop/datasciencecoursera/4_Exploratory_Data_Analysis/project/data")
+setwd("~/Desktop/datasciencecoursera/")
 
 #Reads in data from file then subsets data for specified dates
 powerDT <- data.table::fread(input = "household_power_consumption.txt"
